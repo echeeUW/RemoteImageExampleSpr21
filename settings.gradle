@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Remote Image Example Spr21"
